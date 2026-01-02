@@ -13,6 +13,6 @@ maintaining and evolving software.
 
 ## GitHub Profile
 You can view my personalized GitHub profile
-[here]([https://github.com/your-github-username](https://github.com/samioayman)).
+[here](https://github.com/samioayman).
 
 
