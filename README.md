@@ -1,11 +1,18 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/LQr4ft17)
-# Introduction
-Hi! I'm [Your Name], a student in the Framework-Based Software Design and Development course. 
-I [expect to learn a lot about modern software maintenance practices and how to work with legacy systems].
 
-![My Image](image.jpg)  <!-- Link to the uploaded image -->
+# Introduction
+Hi, I’m Samio Ayman — a developer-in-training with a head for code and a heart for adventure. By day, I’m immersed in the world of software maintenance and evolution, learning how to breathe new life into legacy systems. By night, you’ll find me strumming my guitar, dreaming of aviation routes, tuning car engines, or sketching out my next business idea.
+
+I believe great software, like a well-built guitar or a finely-tuned plane, requires craftsmanship, care, and the courage to evolve. I’m here to master the art of maintaining systems that stand the test of time — and maybe one day, build something that flies both in the cloud and in the sky.
+
+🚀 Coding | ✈️ Aviation | 🚗 Cars | 🎸 Music | 📈 Business
+
+- **Course expectations**: To gain hands-on experience in
+maintaining and evolving software.
+
+![My Image](https://github.com/samioayman/tutorial-1-samioayman/blob/profile-upload/SAMIO_AYMAN.JPG)
 
 ## GitHub Profile
+You can view my personalized GitHub profile
+[here]([https://github.com/your-github-username](https://github.com/samioayman)).
 
-You can view my personalized GitHub profile [here, insert link to your github profile]
 
